@@ -48,7 +48,7 @@ button:hover {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 115 0;
+    padding: 115px 0;
     background: url('img/back.png') no-repeat;
     background-position: center;
     background-size: cover;
